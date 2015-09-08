@@ -1,6 +1,6 @@
 #ReadMe
 
-![Image](NetworkTestFolder.png)
+![Image](doc/NetworkTestFolder.png)
 
 This directory is for **tests**!!
 
